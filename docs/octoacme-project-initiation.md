@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+  _Consider roles such as UX Designer, DevOps Engineer, Business Analyst, and Support Lead depending on project complexity._
 
 ## Project One-pager Template
 - Project name:

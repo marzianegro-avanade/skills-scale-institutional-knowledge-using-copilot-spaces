@@ -24,6 +24,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Estimate:
 - Owner:
 - Related docs/links:
+- Support/DevOps/UX Owner (if relevant):
+
 
 ## Sprint / Iteration Planning
 - Timebox planning to agreed sprint length
@@ -41,3 +43,4 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Hand-offs and responsibilities for UX, DevOps, Business Analyst, and Support Lead roles clarified (if applicable)
